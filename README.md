@@ -1,1 +1,1 @@
-Chord progression generator
+Simple chord progression generator
